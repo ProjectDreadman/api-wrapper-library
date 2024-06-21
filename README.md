@@ -1,6 +1,6 @@
 # API Wrapper Library
 
-This repository contains a Python wrapper for the [Example API](https://api.example.com), making it easier to use in various projects.
+This repository contains a Python wrapper for your API, making it easier to use in various projects.
 
 ## Features
 
